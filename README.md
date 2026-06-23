@@ -29,7 +29,7 @@ The dashboard helps identify:
 
 ## Dashboard Preview
 
-(Will add image below)
+![Dashboard](Screenshot%202026-06-23%20204344.png)
 
 ## Dataset
 
