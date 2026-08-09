@@ -61,9 +61,7 @@ Key preprocessing steps included:
 - Category
 - Shipping Type
 
-## Dashboard Preview
-
-![Dashboard](Image%20of%20Dashboard)
+[Dashboard](./dashboard.png)
 
 ## Key Business Insights
 
