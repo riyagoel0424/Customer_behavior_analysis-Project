@@ -61,7 +61,9 @@ Key preprocessing steps included:
 - Category
 - Shipping Type
 
-[Dashboard](./dashboard.png)
+## Dashboard Preview
+
+![Customer Behavior Dashboard](https://raw.githubusercontent.com/riyagoel0424/Customer_behavior_analysis-Project/main/dashboard.png)
 
 ## Key Business Insights
 
