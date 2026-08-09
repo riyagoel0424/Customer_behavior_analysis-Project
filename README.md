@@ -136,10 +136,6 @@ SQL was used to perform business-oriented analysis and extract insights from the
 - Conditional filtering
 - `CASE` statements
 
-- ## Dashboard Preview
-
-![Dashboard](Screenshot%202026-06-23%20204344.png)
-
 ## Future Improvements
 
 - Customer Lifetime Value (CLV) analysis
