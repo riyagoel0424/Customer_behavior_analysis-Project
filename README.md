@@ -16,25 +16,6 @@ The main objective was to transform raw customer shopping data into meaningful b
 - Track revenue and sales performance
 - Build an interactive dashboard for business decision-making
 
-  ## Project Workflow
-
-```text
-Raw Customer Dataset
-        ↓
-Python + Pandas (Google Colab)
-        ↓
-Data Cleaning & Preprocessing
-        ↓
-Cleaned CSV
-        ↓
-PostgreSQL
-        ↓
-SQL Analysis
-        ↓
-Power BI
-        ↓
-Interactive Dashboard
-
 
 ## Tools & Technologies
 
